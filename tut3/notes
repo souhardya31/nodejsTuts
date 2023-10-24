@@ -1,0 +1,28 @@
+dependencies - external stuff
+
+npm i nodemon -g
+installing nodemon globally
+
+
+npm init
+initialising npm, will create a package.json file after we complete giving all the answers
+
+we use  a .gitignore file to specify files/folder to be ignored when saving to github. In this case we're ignoring the node_modules folder as it's too large
+
+npm i nodemon -D
+installing nodemon as devDependencies
+
+devDependencies are used during development
+production dependencies(stored as dependencies in package.json) are used in real world/production environments
+
+
+"uuid": "^9.0.1"
+9-major version
+0-minor version
+1-patch version
+
+^ - can update minor and patch versions
+~ - can update patch version only
+If we write "uuid": "*" then all updates allowed
+
+use npm uninstall/rm "dependency" to remove a particular dependency, but remember it won't automatically remove the related scripts
