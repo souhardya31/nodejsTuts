@@ -1,0 +1,12 @@
+28/10/2023	21:52:56 	 2252e82d-8fee-4e7e-939a-762a8abd8c1a 	 /log 	 GET 
+28/10/2023	21:52:56 	 afcd925e-bdc1-4580-b350-0234eed82bf1 	 /css/style.css 	 GET 
+28/10/2023	21:54:39 	 2985d29d-b121-499e-80d9-1d9259890649 	 /subdir/ 	 GET 
+28/10/2023	21:54:39 	 43bd0b2d-6fea-4ad6-8e3c-64e479a398ff 	 /css/style.css 	 GET 
+28/10/2023	21:54:49 	 749f4ced-fad6-40ce-af96-81dfcc01163b 	 /new-page 	 GET 
+28/10/2023	21:54:49 	 a6edb349-13b5-409b-9deb-87c32c274c12 	 /css/style.css 	 GET 
+28/10/2023	21:54:49 	 9ee4aca3-f78c-406a-a5d1-732d8cd0d302 	 /img/img1.jpg 	 GET 
+28/10/2023	21:55:06 	 c409145f-a7c2-48a9-b5aa-b59358879746 	 /new 	 GET 
+28/10/2023	21:55:06 	 eb1d9b03-818c-4c0a-947d-e61ff6e83103 	 /css/style.css 	 GET 
+28/10/2023	21:55:16 	 8dddbaed-4faf-442d-ad95-9abe3a9ea2e5 	 /new-page.html 	 GET 
+28/10/2023	21:55:16 	 2a9a6319-cd47-4df7-8823-0b675de10d75 	 /css/style.css 	 GET 
+28/10/2023	21:55:16 	 cda405da-22a0-491a-87dc-baf7804f227e 	 /img/img1.jpg 	 GET 
