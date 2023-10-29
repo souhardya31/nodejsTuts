@@ -1,0 +1,2 @@
+29/10/2023	16:52:22 	 94d3cbc8-4edc-4060-b126-5a7f03fc6086 	 Error: Not allowed by cors 
+29/10/2023	19:22:52 	 dacf27ea-b6ad-43d9-bb32-f847e07c1cdb 	 ReferenceError: whitelist is not defined 
